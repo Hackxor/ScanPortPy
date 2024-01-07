@@ -1,2 +1,2 @@
 # ScanPortPy
-Port and IP address scanner (Local)
+Port and IP address scanner (Local) for Linux
